@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daikikirito
 - 👀 I’m interested in App dev
-- 🌱 I’m currently learning backend coding 
+- 🌱 I’m currently learning front end dev 
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me dm me
 
